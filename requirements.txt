@@ -1,0 +1,4 @@
+scikit-image
+numpy
+Pillow
+git+https://github.com/umang-singhal/pydom.git
